@@ -1,0 +1,4 @@
+100 Iphone bestPhone 5000 true
+200 Laptop bestLaptop 10000 true
+300 Car bestCar 16000 true
+400 Table bestTable 300 true
